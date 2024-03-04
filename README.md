@@ -1,6 +1,6 @@
 <h1 align="center" style="color:white;">Hi 👋, I'm Aswin P T</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aswinpt2&bg_color=181818&title_color=1FD5F5&text_color=ffffff&border_color=1FD5F5"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aswinpt28&bg_color=181818&title_color=1FD5F5&text_color=ffffff&border_color=1FD5F5"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinpt28&langs_count=10&layout=compact&bg_color=181818&title_color=1FD5F5&text_color=ffffff&border_color=1FD5F5" />
 
 <h3 align="left">Languages and Tools:</h3>
